@@ -1,0 +1,24 @@
+{
+  "us_states": [
+    {
+      "state_name": "New York",
+      "abbreviation": "NY",
+      "area_codes": ["212","315","516","631"]
+    },
+    {
+      "state_name": "California",
+      "abbreviation": "CA",
+      "area_codes": ["213","310","415","510","619"]
+    },
+    {
+      "state_name": "Texas",
+      "abbreviation": "TX",
+      "area_codes": ["210","214","281","512","817"]
+    },
+    {
+      "state_name": "Florida",
+      "abbreviation": "FL",
+      "area_codes": ["305","407","561","727"]
+    }
+  ]
+}

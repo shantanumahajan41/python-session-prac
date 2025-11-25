@@ -1,0 +1,20 @@
+{
+  "us_states": [
+    {
+      "state_name": "New York",
+      "abbreviation": "NY"
+    },
+    {
+      "state_name": "California",
+      "abbreviation": "CA"
+    },
+    {
+      "state_name": "Texas",
+      "abbreviation": "TX"
+    },
+    {
+      "state_name": "Florida",
+      "abbreviation": "FL"
+    }
+  ]
+}

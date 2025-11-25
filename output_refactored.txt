@@ -1,0 +1,2 @@
+This is the first line from refactored write.
+This is the second line from refactored write.
